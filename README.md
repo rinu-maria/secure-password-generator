@@ -39,6 +39,8 @@ The password generation process includes:
 
 ## Example
 
+Input:
+
 exampleword
 
 
@@ -59,9 +61,7 @@ Ex@mplew0rd#82
 
 ## Project Structure
 
-
-## Project Structure
-
+```
 secure-password-generator/
 │
 ├── lib/
@@ -76,7 +76,7 @@ secure-password-generator/
 │
 ├── pubspec.yaml         # Project dependencies and configuration
 └── README.md            # Project documentation
----
+```
 
 ## How to Run the Project
 
