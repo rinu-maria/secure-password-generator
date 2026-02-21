@@ -112,4 +112,4 @@ flutter run
 
 ## License
 
-This project is intended for educational and portfolio purposes.
+This project is intended for educational purposes.
