@@ -90,6 +90,9 @@ secure-password-generator/
 flutter pub get
 flutter run
 ```
+## Preview
+
+![App Screenshot](Screenshot/sample-output.png)
 
 ---
 
@@ -117,3 +120,4 @@ This project demonstrates:
 ## License
 
 This project is intended for educational purposes.
+
