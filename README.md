@@ -87,9 +87,13 @@ secure-password-generator/
 - VS Code or Android Studio
 
 ### Steps
+
+Run the following commands in the project directory:
+
+```
 flutter pub get
 flutter run
----
+```
 
 ## Use Cases
 
