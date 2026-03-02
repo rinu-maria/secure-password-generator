@@ -5,6 +5,13 @@ A modern Flutter application that generates secure, strong, and recognizable pas
 This app transforms a familiar word into a complex password using intelligent character substitutions, symbols, numbers, and customizable length.
 
 ---
+## Project Overview
+
+Weak or predictable passwords are one of the most common causes of security breaches. This project demonstrates the implementation of a secure password generation mechanism using Python’s secrets module to ensure cryptographic randomness.
+
+The goal of this project is to apply secure coding principles while understanding the importance of entropy, randomness, and password complexity in cybersecurity.
+
+---
 
 ## Features
 
@@ -107,17 +114,8 @@ This project demonstrates:
 
 ---
 
-## Future Improvements
-
-- Password strength indicator
-- Dark mode support
-- Export password feature
-- Secure password storage (encrypted)
-- Multiple password generation
-
----
-
 ## License
 
 This project is intended for educational purposes.
+
 
